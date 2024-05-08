@@ -1,1 +1,1 @@
-# FlappyBirdGame01
+floor - для округления чисел. xPos + bird.width >= pipe[i].x && xPos <= pipe[i].x + pipeUp.width && (yPos <= pipe[i].y + pipeUp.height || yPos + bird.height >= pipe[i].y + pipeUp.height + gap) - если птица в пределах ширины блока(начало, конец или середина) и если в пределах высоты блока(дотронулась до блока), значит она столкнулась и игра начинается заново.
