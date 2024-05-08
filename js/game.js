@@ -31,7 +31,7 @@ function moveUp() {
 }
 
 // Создание блоков
-var pipe = [];
+let pipe = [];
 
 pipe[0] = {
  x : cvs.width,
